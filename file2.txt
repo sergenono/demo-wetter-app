@@ -1,7 +1,11 @@
 "file2.txt" 
 <<<<<<< HEAD
+<<<<<<< HEAD
 "noch was" 
 "...noch irgendwas" 
+=======
+"modifie _file2_ in another branch _first-branch_" 
+>>>>>>> first-branch
 =======
 "modifie _file2_ in another branch _first-branch_" 
 >>>>>>> first-branch
