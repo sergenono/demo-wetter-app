@@ -1,1 +1,2 @@
 "file2.txt" 
+"modifie _file2_ in another branch _first-branch_" 
